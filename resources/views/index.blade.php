@@ -167,11 +167,17 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/web.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4"> Aplikasi ini bernama <em>HOSPIRESC</em>. HOSPIRESC adalah aplikasi berbasis web yang dibuat oleh tim DY1 untuk membantu rumah sakit di Indonesia agar mudah untuk menolong dan mengajukan pertolongan alat medis sederhana </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
                                     </button>
+                                    <a href="https://github.com/AbdulHafidh-AI/INF206-2022-DY1-HOSPIRESC" target="_blank">
+                                        <button class="btn btn-dark" data-bs-dismiss="modal">
+                                            <i class="fab fa-fw fa-github"></i>
+                                            Kunjungi Github Saya
+                                        </button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -199,11 +205,17 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/desktop.jpeg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">Aplikasi ini kami beri nama <em> HOSPITAL MANAGEMENT SYSTEM </em>. Aplikasi ini bertujuan untuk mengatur waktu yang dimana dokter, perawat, dan pegawai bebas untuk memilih jadwal kerjanya, tetapi untuk dokter dan perawat waktu jam kerja mereka itu ditentukan oleh banyaknya pasien, Meskipun begitu, mereka bebas untuk memilih jadwalnya. </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
                                     </button>
+                                    <a href="https://github.com/AbdulHafidh-AI/ALPHANCODERS_Hospital-Management-Time" target="_blank">
+                                        <button class="btn btn-dark" data-bs-dismiss="modal">
+                                            <i class="fab fa-fw fa-github"></i>
+                                            Kunjungi Github Saya
+                                        </button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -231,11 +243,17 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/HDI.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">Pada Proyek ini kami memvisualkan data untuk melihat nilai index pengembangan manusia, Yang dimana dapat memberikan insight seperti tingkat kelahiran manusia, pendapatan per kapita, dan rata-rata tingkatan pendidikan</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
                                     </button>
+                                    <a href="https://github.com/AbdulHafidh-AI/ProyekVisdat" target="_blank">
+                                        <button class="btn btn-dark" data-bs-dismiss="modal">
+                                            <i class="fab fa-fw fa-github"></i>
+                                            Kunjungi Github Saya
+                                        </button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
