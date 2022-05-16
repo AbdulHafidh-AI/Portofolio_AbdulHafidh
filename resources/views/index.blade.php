@@ -105,7 +105,7 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div class="col-lg-4 ms-auto"><p class="lead">Saya adalah mahasiswa informatika angkatan 2020 yang sangat berambisi dalam mempelajari ilmu machine learning dan web developer</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead"></p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Oleh sebab itu, Ini alasan Saya mengambil jurusan Informatika</p></div>
                 </div>
             </div>
         </section>
@@ -157,7 +157,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 display-6">APLIKASI PERTOLONGAN ANTAR RUMAH SAKIT BERBASIS WEB DENGAN METODE SCRUM</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -189,7 +189,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 display-6">APLIKASI UNTUK MEMANAJEMEN WAKTU DI RUMAH SAKIT</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -221,7 +221,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 display-6">VISUALISASI DATA UNTUK MEMVISUALKAN DATA TERHADAP INDEKS PERKEMBANGAN MANUSIA</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -229,7 +229,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/visual.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/HDI.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
