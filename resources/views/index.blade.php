@@ -124,11 +124,11 @@
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h4 class="text-uppercase mb-4">Konek Dengan Saya Melalui Platform dibawah ini:</h4>
+                        <h4 class="text-uppercase mb-4">Dekatlah Dengan Saya Melalui Platform dibawah ini:</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/AbdulHafidh-AI" target="_blank"><i class="fab fa-fw fa-github"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/AbdulHafidh_AI"><i class="fab fa-fw fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/abdul-hafidh-59533921a/"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/abd.hafidhh/?hl=id"><i class="fab fa-fw fa-instagram"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/AbdulHafidh_AI" target="_blank"><i class="fab fa-fw fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/abdul-hafidh-59533921a/" target="_blank"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/abd.hafidhh/?hl=id" target="_blank"><i class="fab fa-fw fa-instagram"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
